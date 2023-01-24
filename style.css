@@ -1,0 +1,19 @@
+.backgroundPhoto{
+  background-image: url(field.jpg);
+  background-size: cover;
+}
+
+.maincard{
+  background-color: rgba(250, 235, 215, 0.439);
+  min-height: auto;
+  border: 2px solid  rgba(173, 162, 147, 0.552) ;
+  border-radius: 10px;
+}
+
+.huge-font{
+  font-size: 100px;
+}
+
+.huge-score {
+  font-size: 175px;
+}
